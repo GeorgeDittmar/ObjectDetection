@@ -6,8 +6,8 @@ Masters thesis project implementing object recognition and detection experiment 
 DEPENDENCIES
 -------------
 
--- Python 2.7.3
--- GLIMPSE (The vision model)
--- Shapely (Used for detection evaluation)
--- Scikitlearn (Used for ROC and AUC calculations)
+-- Python 2.7.3\n
+-- GLIMPSE (The vision model)\n
+-- Shapely (Used for detection evaluation)\n
+-- Scikitlearn (Used for ROC and AUC calculations)\n
 
