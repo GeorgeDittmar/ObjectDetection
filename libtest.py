@@ -1,3 +1,0 @@
-from glimpse.glab import *
-
-
